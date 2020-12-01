@@ -83,7 +83,7 @@ The steps are as follows and has to be carried out with exactness to reproduce t
 
 ## How does the dataset look
 
-![data](https://github.com/pritam004/CPP_corpus/blob/main/data.png?raw=true)
+![data](https://github.com/pritam004/CPP_corpus/blob/main/data.PNG?raw=true)
 
 
 
