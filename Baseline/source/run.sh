@@ -11,7 +11,7 @@ elif [ "$1" = "train_local" ]; then
 elif [ "$1" = "test_local" ]; then
     python run.py decode model.bin ./en_es_data/test.es ./en_es_data/test.en outputs/test_outputs.txt
 elif [ "$1" = "vocab" ]; then
-	python vocab.py --train-src=../data/code_train.txt --train-tgt=../data/doc_train.txt vocab.json
+	python vocab.py --train-src=../data/cs_code_train.txt --train-tgt=../data/doc_train.txt vocab.json
 else
 	echo "Invalid Option Selected"
 fi
