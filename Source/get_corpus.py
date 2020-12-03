@@ -34,8 +34,10 @@ def give_base_name(file):
     '''
     
     ##skip 33 characters and return
+
+    len_file_name= ###fill with length of file name
     
-    return file[30:]
+    return file[len_file_name:]
 
 def is_parallel(file):
     '''
