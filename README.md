@@ -100,6 +100,25 @@ The steps are as follows and has to be carried out with exactness to reproduce t
 
 ![data](https://github.com/pritam004/CPP_corpus/blob/main/data.PNG?raw=true)
 
+
+## Dataset Description
+
+<b>function name</b> This the name of the method .
+
+<b>signature</b> This field contains return_type : class_name : namespace :function_name
+
+<b>start_line</b> Start line of the code
+
+<b>end_line</b> End line of the code
+
+<b>file_name</b> This is a link to the file that contains the code on github.
+
+<b>download_link</b>  This is the download link to the raw code file.
+
+<b>code</b> This is the string version of the code.
+
+<b> license</b> The license for the usage of the code.
+
 ## Allowed licenses
 
 
@@ -116,6 +135,7 @@ The steps are as follows and has to be carried out with exactness to reproduce t
 * 'mpl-2.0',
 * 'unlicense',
 * 'gpl-3.0'
+
 
 
 
