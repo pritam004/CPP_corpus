@@ -100,6 +100,25 @@ The steps are as follows and has to be carried out with exactness to reproduce t
 
 ![data](https://github.com/pritam004/CPP_corpus/blob/main/data.PNG?raw=true)
 
+## Allowed licenses
+
+/**
+*'apache-2.0',
+*'lgpl-2.1',
+*'epl-1.0',
+*'isc',
+*'bsd-3-clause',
+*'bsd-2-clause',
+*'mit',
+*'gpl-2.0',
+*'cc0-1.0',
+*'lgpl-3.0',
+*'mpl-2.0',
+*'unlicense',
+*'gpl-3.0'
+*/
+
+
 
 
 
